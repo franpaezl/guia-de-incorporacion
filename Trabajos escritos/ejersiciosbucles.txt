@@ -1,0 +1,60 @@
+EJERCICIOS DE BUCLES
+Nivel Bajo
+1)- Me pidieron que me levante y me siente 3 veces.
+2)- Para cada persona en una mesa donde comen 5 personas:
+-	Coloca el plato en el centro de la posición de la persona.
+-	Coloca el tenedor a la izquierda del plato.
+-	Coloca el cuchillo a la derecha del plato.
+-	Coloca el vaso al frente del plato.
+Para cada persona en una mesa donde comen 50 personas:
+-	Coloca el plato en el centro de la posición de la persona.
+-	Coloca el tenedor a la izquierda del plato.
+-	Coloca el cuchillo a la derecha del plato.
+-	Coloca el vaso al frente del plato.
+3) – En nuestra Hoja de Javascript debemos declarar un bucle for en el cual:
+1.	Inicializamos una varible i con el valor de  10.
+2.	Le damos una codicion en este caso la variable i es mayor  o igual que 20 la cual se evaluara antes de cada iteración y si se cumple el bucle continua ejecutándose.
+3.	i++ indica que por cada vuelta que de el bucle a la variable i se le sumara un numero
+4.	En el cuerpo del bucle se indica que al “numero actual” se le sumara el valor que tenga i dependiendo de cuanto sea su valor en ese momento.
+4)- Preparacion de una tortilla:
+1.	Conseguir todos los ingredientes (huevos , aceite, papa, cebolla ,sal y pimienta)
+2.	Romper los huevos
+3.	Ponerlos en un bowl
+4.	Batirlos hasta que queden esponjosos
+5.	Pelar papas y cebollas
+6.	Rallar papas y cortar cebollas
+7.	Poner una sarten a fuego medio.
+8.	Poner aceite en la sarten y esperar a que se caliente.
+9.	Volcar en la sarte las papas y las cebollas
+10.	Luego de 3 minutos sacar las papas y las cebollas y reservar
+11.	Mezclar bien las papas y cebollas con los huevos.
+12.	Vertir la mezcla por toda sarten a fuego medio
+13.	Asegurar que ocupe todos los bodres
+14.	Esperar 5 mins hasta que se cocinen de un lado
+15.	Dar vuelta la tortilla
+16.	Esperar otros 5 minutos
+17.	Apagar la ornalla
+18.	Sacarla
+19.	Comerla.
+5)-  
+a- Si.
+b-No
+c- Que la bombilla este completamente  desenroscada.
+d- No estaría bien porque  la cantidad de vueltas que de desenroscar bombillas es relativa, algunas pueden tener mas de cuatro giros y tras menos
+e- Bajarse de la escalera debe realizarse siempre y cuando se utilzo la escalera para subir. En el caso del algoritmo dado, pero este no tiene en cuenta si se uso la escalera o no. Esta seria mi algoritmo para poner una bombilla:
+Apaga el interruptor de la luz.
+Si la bombilla está demasiado alta:
+-	Trae una escalera.
+-	Sube las escaleras.
+Toma la bombilla con la mano.
+Repetir la acción hasta desenroscar la bombilla:
+-	Destornillar.
+Si la bombilla está demasiado alta:
+-	Bajarse de la escalera.
+Toma la bombilla sana con la mano.
+Sube la escalera si fue utilizada antes.
+Repite la acción de enroscar la bombilla hasta que esté bien sujeta.
+Si la bombilla está demasiado alta:
+-	Bajarse de la escalera.
+Enciende el interruptor de la luz para probar la nueva bombilla.
+
